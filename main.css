@@ -38,3 +38,16 @@ h2 {
 h1 {
     font-family: 'Fredoka One', cursive;
 }
+
+
+header{
+    margin:auto;
+    display:flex;
+    justify-content: space-between;
+}
+header div {
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    margin-bottom: 20px;
+}                                  
